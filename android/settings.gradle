@@ -1,0 +1,3 @@
+rootProject.name = 'Assignment_ps05891'
+
+include ':app'
